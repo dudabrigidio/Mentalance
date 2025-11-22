@@ -40,7 +40,7 @@ A solução integra uma API RESTful desenvolvida em Java/.NET para gerenciar dad
 ### CRUD Completo
 - ✅ **Usuários**: Criar, Ler, Atualizar e Deletar perfil
 - ✅ **Check-ins**: Criar, Ler, Atualizar e Deletar registros emocionais
-- ✅ Integração completa com API RESTful (Java/.NET)
+- ✅ Integração completa com API RESTful (.NET)
 - ✅ Tratamento de erros e feedback visual
 
 ### Telas do Aplicativo
@@ -115,22 +115,6 @@ mentalance/
 ├── utils/               # Utilitários (gitInfo, etc.)
 └── view/                # Telas do aplicativo
 ```
-
-## 🎨 Design e Estilização
-
-O aplicativo utiliza uma paleta de cores suave e acolhedora:
-- **Amarelo Claro** - Cor principal de fundo
-- **Rosa Claro** - Elementos secundários e cards
-- **Rosa Escuro** - Botões e elementos de destaque
-
-A interface foi projetada para ser intuitiva e acolhedora, seguindo as guidelines de design mobile.
-
-## 🔐 Segurança
-
-- Autenticação via token JWT
-- Proteção de rotas sensíveis
-- Validação de dados no cliente e servidor
-- Armazenamento seguro de credenciais
 
 ## 📱 Publicação
 
