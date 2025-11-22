@@ -118,7 +118,7 @@ mentalance/
 ## 📱 Publicação
 
 O aplicativo está publicado no **Firebase App Distribution** para testes.
-[🔗 Link para o vídeo no YouTube](https://appdistribution.firebase.dev/i/9d8641739d03327d)
+[🔗 Link para convite](https://appdistribution.firebase.dev/i/9d8641739d03327d)
 
 
 ## 📝 Notas de Desenvolvimento
