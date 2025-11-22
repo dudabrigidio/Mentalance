@@ -12,9 +12,8 @@ O **Mentalance** é um aplicativo mobile desenvolvido em React Native para ajuda
 
 ## 🎥 Vídeo de Demonstração
 
-[🔗 Link para o vídeo no YouTube](https://www.youtube.com/watch?v=SEU_VIDEO_AQUI)
+[🔗 Link para o vídeo no YouTube](https://youtube.com/shorts/5Bu9S-_DcgE)
 
-> **Nota:** Substitua o link acima pelo link real do seu vídeo no YouTube após a publicação.
 
 ## 🎯 Descrição da Solução - Global Solution
 
@@ -119,6 +118,8 @@ mentalance/
 ## 📱 Publicação
 
 O aplicativo está publicado no **Firebase App Distribution** para testes.
+[🔗 Link para o vídeo no YouTube](https://appdistribution.firebase.dev/i/9d8641739d03327d)
+
 
 ## 📝 Notas de Desenvolvimento
 
